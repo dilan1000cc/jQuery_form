@@ -1,0 +1,7 @@
+.hidden {
+    display: none;
+}
+
+.output span{
+    color: rgb(35, 100, 221);
+}
